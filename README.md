@@ -1,5 +1,7 @@
 # SpotifyClone
 
+Proyecto de angular que simula la interfaz de spotify, con la finalidad de aprender a usar el framework y sus componentes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
 ## Development server
